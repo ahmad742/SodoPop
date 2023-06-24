@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608848313122",
+    "project_id": "datecloset-f1344",
+    "storage_bucket": "datecloset-f1344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608848313122:android:3d99eae9bb306d77be037b",
+        "android_client_info": {
+          "package_name": "com.rn.app.datecloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608848313122-8s4oe7rlfhnsg6chru8g99q3d5d4d9dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVjDNQcOvaDOcTFXik1B33Ki6caINZKJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608848313122-8s4oe7rlfhnsg6chru8g99q3d5d4d9dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
